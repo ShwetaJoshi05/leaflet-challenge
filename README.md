@@ -1,5 +1,7 @@
 # leaflet-challenge
 
+Here is link to the output : https://shwetajoshi05.github.io/leaflet-challenge/
+
 Performed Part1 of the Leaflet challenge.
 Here is an image of the ouput in the ouput folder.
 
